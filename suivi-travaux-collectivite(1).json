@@ -1,0 +1,186 @@
+{
+  "exportedAt": "2026-10-19T19:47:49.736Z",
+  "operations": [
+    {
+      "id": "op-1",
+      "name": "Réhabilitation de l’école des Tilleuls",
+      "type": "Éducation",
+      "city": "Groupe scolaire central",
+      "status": "en cours",
+      "year": "2026",
+      "start": "2026-02-15",
+      "end": "2026-11-30",
+      "description": "Mise aux normes énergétiques et accessibilité du groupe scolaire.",
+      "budget": 486000,
+      "spent": 281400,
+      "progress": 64,
+      "quotes": [
+        {
+          "label": "Lot plomberie",
+          "amount": 120000,
+          "status": "signé"
+        },
+        {
+          "label": "Lot isolation",
+          "amount": 198000,
+          "status": "reçu"
+        }
+      ],
+      "invoices": [
+        {
+          "label": "Situation n°2",
+          "amount": 93600,
+          "status": "payé"
+        },
+        {
+          "label": "Situation n°3",
+          "amount": 72600,
+          "status": "partiel"
+        }
+      ],
+      "milestones": [
+        {
+          "label": "Diagnostic",
+          "date": "2026-03-12",
+          "status": "fait"
+        },
+        {
+          "label": "Travaux",
+          "date": "2026-06-01",
+          "status": "en cours"
+        },
+        {
+          "label": "Réception",
+          "date": "2026-11-30",
+          "status": "non fait"
+        }
+      ],
+      "documents": [
+        {
+          "label": "Permis / autorisation",
+          "status": "reçu"
+        },
+        {
+          "label": "DOE",
+          "status": "manquant"
+        }
+      ],
+      "grants": [
+        {
+          "name": "Fonds vert — rénovation énergétique",
+          "status": "obtenue",
+          "amount": 95000
+        },
+        {
+          "name": "DETR",
+          "status": "demandée",
+          "amount": 50000
+        }
+      ]
+    },
+    {
+      "id": "op-2",
+      "name": "Aménagement de la place du Marché",
+      "type": "Voirie",
+      "city": "Centre-bourg",
+      "status": "en attente",
+      "year": "2026",
+      "start": "2026-09-01",
+      "end": "2027-04-30",
+      "description": "Désimperméabilisation et apaisement des circulations du centre.",
+      "budget": 275000,
+      "spent": 0,
+      "progress": 18,
+      "quotes": [
+        {
+          "label": "Études paysagères",
+          "amount": 28500,
+          "status": "reçu"
+        },
+        {
+          "label": "Travaux VRD",
+          "amount": 214000,
+          "status": "à signer"
+        }
+      ],
+      "invoices": [],
+      "milestones": [
+        {
+          "label": "Validation AVP",
+          "date": "2026-10-15",
+          "status": "en retard"
+        },
+        {
+          "label": "Démarrage",
+          "date": "2027-01-10",
+          "status": "non fait"
+        }
+      ],
+      "documents": [
+        {
+          "label": "Plan de circulation",
+          "status": "transmis"
+        },
+        {
+          "label": "Convention voirie",
+          "status": "à transmettre"
+        }
+      ],
+      "grants": [
+        {
+          "name": "Fonds mobilités actives",
+          "status": "à étudier",
+          "amount": 60000
+        }
+      ]
+    },
+    {
+      "id": "op-3",
+      "name": "Rénovation thermique de la mairie",
+      "type": "Bâtiment public",
+      "city": "Hôtel de ville",
+      "status": "terminé",
+      "year": "2025",
+      "start": "2025-01-10",
+      "end": "2025-12-18",
+      "description": "Isolation de l’enveloppe et remplacement des équipements de chauffage.",
+      "budget": 198500,
+      "spent": 194200,
+      "progress": 100,
+      "quotes": [
+        {
+          "label": "Marché global",
+          "amount": 198500,
+          "status": "signé"
+        }
+      ],
+      "invoices": [
+        {
+          "label": "Solde marché",
+          "amount": 194200,
+          "status": "payé"
+        }
+      ],
+      "milestones": [
+        {
+          "label": "Réception",
+          "date": "2025-12-18",
+          "status": "fait"
+        }
+      ],
+      "documents": [
+        {
+          "label": "DOE",
+          "status": "reçu"
+        }
+      ],
+      "grants": [
+        {
+          "name": "DSIL",
+          "status": "obtenue",
+          "amount": 72000
+        }
+      ]
+    }
+  ]
+}
